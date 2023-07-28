@@ -6,7 +6,7 @@ Lecturer     : Prof. Lau Sian Lun
 
 Dataset Link : https://www.kaggle.com/datasets/tarun42/enron-clean
 
-# All tasks are done by using t2.larege instance
+# All tasks are done by using t2.large instance
 
 SCRIPT                  SOURCE
 mapper.py               lab 5
